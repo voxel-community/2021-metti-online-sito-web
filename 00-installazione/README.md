@@ -2,7 +2,7 @@
 
 |                                                                               | Capitolo successivo                                                                      |
 | :---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/girlscodeit/oltreconomia-2019/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-metti-online-sito-web/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
 
 
 
@@ -28,4 +28,4 @@ Nel nostro caso, oggi utilizzeremo "Visual Studio Code", un editor di testo molt
 
 |                                                           | Capitolo successivo                                                                      |
 | :-------------------------------------------------------- | ---------------------------------------------------------------------------------------: |
-| [◀︎ Introduzione](https://github.com/girlscodeit/oltreconomia-2019/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |
+| [◀︎ Introduzione](https://github.com/voxel-community/2021-metti-online-sito-web/) | [01-comincia-a-preparare-il-tuo-progetto ▶︎](../01-comincia-a-preparare-il-tuo-progetto) |

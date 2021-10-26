@@ -70,9 +70,9 @@ Una volta che avrai creato il tuo sito potrai potenziarlo e personalizzarlo anco
 
 ## Approfondimenti
 
-Per ulteriori approfondimenti su HTML, CSS e Javascript ti consigliamo di puoi visitare i seguenti siti:
+👩🏻‍💻 Per ulteriori approfondimenti su HTML, CSS e Javascript ti consigliamo di visitare i seguenti siti:
 
-- 👩🏻‍💻 Questo sito ti permette invece di comprendere meglio la [struttura HTML](https://htmlreference.io/base/)
+-  Questo sito ti permette invece di comprendere meglio la [struttura HTML](https://htmlreference.io/base/)
 - Questo sito invece contiene spiegazioni su HTML, CSS, Javascript e molto altro: [W3School](https://www.w3schools.com)
 
 #### 👩🏻‍💻 Tutorial gratuiti riguardo al coding:
@@ -81,7 +81,7 @@ Per ulteriori approfondimenti su HTML, CSS e Javascript ti consigliamo di puoi v
 - [Codeacademy](https://www.codeacademy.com)
 - [Khan Academy](https://it.khanacademy.org/computing/computer-programming/html-css)
 
-Trovi maggiori informazioni su questo [articolo](https://www.voxel.community/it/-/blog/start-here)
+Trovi maggiori informazioni su questo [articolo](https://www.voxel.community/it/-/blog/start-here) ✨
 
 ## Contatti
 
@@ -91,4 +91,4 @@ Se vuoi rimanere aggiornata sui nostri prossimi eventi, qui trovi i nostri conta
 
 🔵 Facebook: [@voxelcommunitytrento](https://www.facebook.com/voxelcommunitytrento)
 
-🌐 Sito web: [www.voxel.community](https://www.voxel.community)
+🌐 Sito web: [https://www.voxel.community](https://www.voxel.community)
