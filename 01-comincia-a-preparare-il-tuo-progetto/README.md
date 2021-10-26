@@ -9,7 +9,7 @@
 Creare la base del nostro documento HTML, un file con estensione `.html`
 
 
-- Per comodità crea una cartella vuota, puoi chiamarla `oltreconomia-2019`
+- Per comodità crea una cartella vuota, puoi chiamarla `mywebsite`
 - Apri **Visual Studio Code** e apri la cartella con `File > Apri…`
 
 
@@ -33,7 +33,7 @@ Infatti, per utilizzare Bulma oggi, inseriamo il suo link proprio all'interno de
 >
 >Il body contiene invece tutto ciò che sarà visibile, come il i titoletti, i paragrafi, le immagini, ecc.
 
-- Vai nella cartella `oltreconomia-2019`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
+- Vai nella cartella `mywebsite`, con il tasto destro apri con un browser `index.html` per visualizzare la pagina.
 
 
 ### Come puoi vedere hai appena creato una pagina web 😍
