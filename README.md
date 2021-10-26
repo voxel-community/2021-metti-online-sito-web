@@ -30,6 +30,8 @@ Utilizzando Bulma, il tuo sito sarà già mobile-friendly, ovvero i contenuti de
 
 Javascript è un linguaggio utilizzato per rendere dinamico ed interattivo il sito. Gestisce il comportamento degli elementi dinamici di un sito web, ovvero come il contenuto (HTML) e lo stile grafico (CSS) reagiscono e si modificano sulla pagina web.
 
+<kbd>![01-body-head](./assets/Lessons/html-css-js.gif)</kbd>
+
 ---
 
 ## Struttura del workshop
