@@ -7,6 +7,9 @@
 ## Obiettivo:
 Aggiungi delle icone per abbellire il tuo sito
 
+- Aggiungi questo elemento all'interno del tag `<head></head>` per poter utilizzare le icone di Fontawesome:
+
+`<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">`
 
 - All'interno dei tag `p` inserisci l'elemento `icona` prendendo il codice dal sito di [Bulma](https://bulma.io/documentation/).
 Una volta entrata sul sito di Bulma clicca in alto a sinistra su Documentations/Elements/Icons. 
